@@ -46,8 +46,6 @@ My Name is Kalvin Tang and I'm currently attending program at British Columbia I
 
 ## GitHub Stats
 
----
-
 <details>
   <summary>:zap: GitHub Stats</summary>
 
