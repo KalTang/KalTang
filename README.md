@@ -1,4 +1,4 @@
-# ![](https://i.imgur.com/yJ4wFtT.jpg)
+# ![](https://i.imgur.com/64mGu9T.jpg)
 
 <p align= "center">
 <a href ="https://www.linkedin.com/in/kalvin-tang-b85037ba/"><img height = "30" src= "https://i.imgur.com/jm5eHLu.png"></a>&nbsp;&nbsp;
