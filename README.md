@@ -13,10 +13,9 @@ My Name is Kalvin Tang, and I'm currently attending program in school at British
 
 -   🌱 I’m currently trying to learn... everything there is to be a developer! :smile:
 -   🔭 I’m currently working on trying to develop my first portfolio website!
--   🥅 My goals are to complete more personal projects!
--   📈 Enjoying seeing my skills slowly improving!
+-   🥅 My goals are to complete more personal projects and collab with people on other projects!
+-   📈 Enjoying the learning process and seeing my skills slowly improve!
 -   ⚡ Fun fact: I like gaming :video_game: and an avid badminton player.
--   📫 You can reach me at kalvintang@gmail.com
 
 ## Languages and Tools:
 
