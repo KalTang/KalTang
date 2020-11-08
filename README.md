@@ -3,16 +3,15 @@
 <p align= "center">
 <a href ="https://www.linkedin.com/in/kalvin-tang-b85037ba/"><img height = "30" src= "https://i.imgur.com/jm5eHLu.png"></a>&nbsp;&nbsp;
 <a href ="https://www.instagram.com/kal_tee89/"><img height = "30" src= "https://i.imgur.com/xu7e9Nd.png"></a>&nbsp;&nbsp;
-<a href ="twitter.com"><img height = "30" src= "https://i.imgur.com/t60MqO6.png"></a>
 </p>
 
 # Hey there! <img src= "https://i.imgur.com/NW7bdvZ.gif" alt= "handWave" width="30px" height= "30px" />
 
-My Name is Kalvin Tang and I'm currently attending program at British Columbia Institue of Technology :school: to become a software developer! Portfolio coming soon :construction:
+My Name is Kalvin Tang, and I'm currently attending program in school at British Columbia Institue of Technology :school: to become a software developer! Personal portfolio coming soon :construction:
 
 ## Little bit about me:
 
--   🌱 I’m currently trying to learn... everything! :smile:
+-   🌱 I’m currently trying to learn... everything there is to be a developer! :smile:
 -   🔭 I’m currently working on trying to develop my first portfolio website!
 -   🥅 My goals are to complete more personal projects!
 -   📈 Enjoying seeing my skills slowly improving!
