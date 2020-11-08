@@ -41,6 +41,9 @@ My Name is Kalvin Tang and I'm currently attending program at British Columbia I
 <img align="left" alt="Azure" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/azure/azure.png" />
 <img align="left" alt="NodeJS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 
+<br/>
+<br/>
+
 <details>
   <summary>:zap: GitHub Stats</summary>
 
@@ -48,16 +51,4 @@ My Name is Kalvin Tang and I'm currently attending program at British Columbia I
 
 </details>
 <!--
-**KalTang/KalTang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
--   🔭 I’m currently working on ...
--   🌱 I’m currently learning ...
--   👯 I’m looking to collaborate on ...
--   🤔 I’m looking for help with ...
--   💬 Ask me about ...
--   📫 How to reach me: ...
--   😄 Pronouns: ...
--   ⚡ Fun fact: ...
-    -->
+**KalTang/KalTang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
