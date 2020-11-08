@@ -1,4 +1,6 @@
-### Hi there 👋
+# ![](https://i.imgur.com/yJ4wFtT.jpg)
+
+# Hey there! <img src= "https://i.imgur.com/NW7bdvZ.gif" alt= "handWave" width="30px" height= "30px" />
 
 <!--
 **KalTang/KalTang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
