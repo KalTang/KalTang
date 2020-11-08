@@ -8,7 +8,7 @@
 
 # Hey there! <img src= "https://i.imgur.com/NW7bdvZ.gif" alt= "handWave" width="30px" height= "30px" />
 
-My Name is Kalvin Tang and I'm currently attending program at British Columbia Institue of Technology :school: to become a software developer! Portfolio coming soon:construction:
+My Name is Kalvin Tang and I'm currently attending program at British Columbia Institue of Technology :school: to become a software developer! Portfolio coming soon :construction:
 
 ## Little bit about me:
 
