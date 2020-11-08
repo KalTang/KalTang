@@ -1,5 +1,11 @@
 # ![](https://i.imgur.com/yJ4wFtT.jpg)
 
+<p align= "center">
+<a href ="https://www.linkedin.com/in/kalvin-tang-b85037ba/"><img height = "30" src= "https://i.imgur.com/jm5eHLu.png"></a>&nbsp;&nbsp;
+<a href ="https://www.instagram.com/kal_tee89/"><img height = "30" src= "https://i.imgur.com/xu7e9Nd.png"></a>&nbsp;&nbsp;
+<a href ="twitter..com"><img height = "30" src= "https://i.imgur.com/t60MqO6.png"></a>
+</p>
+
 # Hey there! <img src= "https://i.imgur.com/NW7bdvZ.gif" alt= "handWave" width="30px" height= "30px" />
 
 <!--
