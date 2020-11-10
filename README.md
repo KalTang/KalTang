@@ -34,6 +34,8 @@
 
 #### If you like coffee, here's a coffee parrot!
 
+<br/>
+
 [<img src="https://cultofthepartyparrot.com/parrots/coffeeparrot.gif" width= "30px" height="30px"/>](https://cultofthepartyparrot.com/)
 
 </details>
