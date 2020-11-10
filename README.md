@@ -2,8 +2,6 @@
 
 ## Hey there! <img src= "https://i.imgur.com/NW7bdvZ.gif" alt= "handWave" width="30px" height= "30px" />
 
-<br/>
-
 ## About me:
 
 -   🌱 Currently a student at [British Columbia Institute of Technology](https://www.bcit.ca/study/programs/699ccertt) learning to be a developer!
