@@ -32,13 +32,13 @@
 
   <img align="left" alt="kalTang's GitHub Stats" src="https://github-readme-stats.kaltang.vercel.app//api?username=KalTang&show_icons=true&hide_border=true" />
 
-</details>
-
-<br/>
-
 #### If you like coffee, here's a coffee parrot!
 
 [<img src="https://cultofthepartyparrot.com/parrots/coffeeparrot.gif" width= "30px" height="30px"/>](https://cultofthepartyparrot.com/)
+
+</details>
+
+<br/>
 
 <!--
 **KalTang/KalTang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
