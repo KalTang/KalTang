@@ -1,28 +1,33 @@
-# ![](https://i.imgur.com/64mGu9T.jpg)
+<div align="center">
 
 ## Hey there! <img src= "https://i.imgur.com/NW7bdvZ.gif" alt= "handWave" width="30px" height= "30px" />
 
-## About me:
+### I am Kalvin, a fullstack web developer.
 
--   🌱 Currently a student at [British Columbia Institute of Technology](https://www.bcit.ca/study/programs/699ccertt) learning to be a developer!
--   🔭 I’m currently working on learning React and Angular!
--   🥅 My goal is to create my first porfolio website!
+</div>
+</br>
+
+<h3>📖 About Me</h3>
+
+-   🎓 I recently graduated from BCIT's Systems Software Developer program (SSD).
+-   🔭 Currently self learning more JavaScript and Front-end design.
+-   🥅 My goal is to finish and fix current existing projects and recreate my portfolio.
 -   ⚡ Fun fact: I like gaming :video_game: and an avid badminton player 🏸.
     <br />
 
-## 📫 How to reach me:
+<h3>🌱 Some things that I've learned</h3>
+
+-   Front End: HTML/CSS/JS, SASS/ REACT
+-   Back End: NodeJS, ASP/.NET
+-   Mobile: React Native, iOS/Swift
+-   Database: MongoDB, MySQL, AWS
+    </br>
+
+<h3>📫 How to reach me:</h3>
 
 [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/kalvin-tang-b85037ba/)
 <a href="mailto:kalvintang89@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/> </a>
 
-## Languages :
-
-<img align="left" alt="HTML5" width="3%" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="3%" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="3%" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="React" width="3%" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-
-<br/>
 <br/>
 
 ## GitHub Stats
