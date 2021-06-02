@@ -1,8 +1,8 @@
 <div align="center">
 
-## Hey there!<img src= "https://i.imgur.com/NW7bdvZ.gif" alt= "handWave" width="30px" height= "30px" />
+## Hey there! I am Kalvin<img src= "https://i.imgur.com/NW7bdvZ.gif" alt= "handWave" width="30px" height= "30px" />
 
-I am Kalvin, a fullstack web developer.
+### A fullstack web developer.
 
 </div>
 </br>
@@ -11,8 +11,8 @@ I am Kalvin, a fullstack web developer.
 
 -   🎓 I recently graduated from BCIT's Systems Software Developer program (SSD).
 -   🔭 Currently self learning more JavaScript and Front-end design.
--   🥅 My goal is to finish and fix current existing projects and recreate my portfolio.
--   ⚡ Fun fact: I like gaming :video_game: and an avid badminton player 🏸.
+-   🥅 My goal is to finish and fix up current my existing projects and recreate my portfolio.
+-   ⚡ Fun fact: I enjoy playing video games :video_game: and an avid badminton player 🏸.
     <br />
 
 <h3>🌱 Some things that I've learned</h3>
@@ -28,9 +28,8 @@ I am Kalvin, a fullstack web developer.
 [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/kalvin-tang-b85037ba/)
 <a href="mailto:kalvintang89@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/> </a>
 
-<br/>
-
-## GitHub Stats
+</br>
+<h3>📊 GitHub Stats</h3>
 
 <details>
   <summary>:zap: GitHub Stats</summary>
