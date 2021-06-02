@@ -1,8 +1,8 @@
 <div align="center">
 
-## Hey there! <img src= "https://i.imgur.com/NW7bdvZ.gif" alt= "handWave" width="30px" height= "30px" />
+## Hey there!<img src= "https://i.imgur.com/NW7bdvZ.gif" alt= "handWave" width="30px" height= "30px" />
 
-### I am Kalvin, a fullstack web developer.
+I am Kalvin, a fullstack web developer.
 
 </div>
 </br>
