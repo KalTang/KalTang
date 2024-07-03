@@ -9,7 +9,7 @@ Software Developer
 
 
 * 🌍  I'm based in Vancouver, BC
-* 🖥️  Check out my [Portfolio](http://https://kalvintang.me/)
+* 🖥️  Portfolio under maintenance!! 
 * 🚀  I'm currently working on remaking my portfolio website using React and Tailwind CSS
 * 🧠  I'm currently self learning AWS
 * 🤝  I'm open to collaborating on Blockchain Development, or Web3
